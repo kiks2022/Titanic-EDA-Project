@@ -1,8 +1,8 @@
 # AnalystLab Africa — AI Internship Program
 ### Week 1 & 2: AI Foundations & Data Preparation
-![Titanic Banner](titanic_banner.jpg)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green) ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-orange) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Titanic Banner](titanic_banner.jpg)
 
 ---
 
