@@ -93,7 +93,7 @@ Based on the correlation heatmap: **Sex** and **Pclass** are the two strongest p
 ---
 
 ## About
-**Intern:** [Your Name Here]  
+**Intern:** Adekoya Kikelomo Akorede 
 **Program:** AnalystLab Africa AI Internship  
 **Week:** 1 & 2 — AI Foundations & Data Preparation  
 **Deadline:** 17th May 2026
