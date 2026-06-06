@@ -1,0 +1,25 @@
+
+TITANIC DATASET - SUMMARY OF INSIGHTS
+AnalystLab Africa AI Internship Week 1 & 2
+
+DATASET OVERVIEW
+Total passengers : 891
+Total columns    : 12 (cleaned down to 9)
+Survival rate    : 38.4% survived, 61.6% did not
+
+DATA CLEANING
+Age     : 177 missing values filled with median age (28)
+Cabin   : 687 missing (77%) replaced with HasCabin column
+Embarked: 2 missing filled with most common port (S)
+Dropped : PassengerId, Name, Ticket (not useful)
+
+KEY FINDINGS
+Gender : Women survived at 74%, men at only 19%
+Class  : 1st class 63%, 2nd class 47%, 3rd class 24%
+Age    : Children under 10 had higher survival rates
+Heatmap: Sex and Pclass are strongest predictors of survival
+
+CONCLUSION
+Your wealth and gender determined whether you lived or died.
+Being a woman in 1st class = best chance of survival.
+Being a man in 3rd class = worst chance of survival.
